@@ -6,12 +6,12 @@
   <dependencies>
     <dependency>
       <groupId>io.vertx</groupId>
-      <version>3.5.0</version>
+      <version>3.5.4</version>
       <artifactId>vertx-core</artifactId>
     </dependency>
     <dependency>
       <groupId>io.vertx</groupId>
-      <version>3.5.0</version>
+      <version>3.5.4</version>
       <artifactId>vertx-unit</artifactId>
     </dependency>
   </dependencies>
